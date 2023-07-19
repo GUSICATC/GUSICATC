@@ -1,7 +1,24 @@
-### Hi there 👋
+
+  # Hi there 👋 I’m Aleksandr
+  ## **Python developer**
+  
+
+  
+-- - 
+
+- 🌱 I’m currently learning **FastAPI** 
+- ⌨️ I like to write code 
+- 💻 I love to fix computers 
+-- -
+### **Languages and tools:** 
+Python, FastAPI, Django, Flask, SQLAlchemy, PostgreSQL, SQLite, scrapy, bs4, PyQt5, Docker, GitHub CI/CD
+
+<!--![Python](https://img.shields.io/badge/-python-9cf)-->
+</h3>
+
+<hr>
 
 <!--
-**GUSICATC/GUSICATC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +31,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
