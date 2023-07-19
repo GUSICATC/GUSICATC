@@ -1,5 +1,5 @@
 
-  # Hi there 👋 I’m Aleksandr
+  # Hi there 👋 I’m Aleksander
   ## **Python developer**
   
 
